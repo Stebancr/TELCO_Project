@@ -119,55 +119,92 @@ Descripción del cluster
 
 Telcoprueba.ipynb (https://drive.google.com/file/d/1IBo8XqV1QBpF1dVoyYEsagcx-y0aOElB/view?usp=sharing)
 
-video: 
+
+
+Explicacion de app en video: 
 
 
 https://www.canva.com/design/DAG5kSPFEhQ/GFa-P53t2QrTe9fPQDIh0w/watch?utm_content=DAG5kSPFEhQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb34e11b7a4
 
 
+
+
+
 #Instalación
+
 
 
 Sigue estos pasos para ejecutar el proyecto en tu máquina.
 
+
+
 1. Clonar el repositorio
+
+
 
 git clone https://github.com/TU_USUARIO/tu-repo.git
 
 
+
 2. Crear entorno virtual
 
-   
+
+
+
 python -m venv .venv
+
+
 
 
 3. Activar el entorno virtual
 
 
-Windows (CMD)
+
+
+Windows (CMD)         
+
+
 
 .venv\Scripts\activate
 
-4.entrar a la ruta:
+
+
+4.entrar a la ruta:      
+
+
 
 venv/Scripts
 
+
+
 5. ejecutar en la ruta el siguiente comando
+
+
 
 ./activate 
 
-6. ejecutar els iguiente comando
+
+6. ejecutar el  siguiente comando
+
+
 
 cd ..
+
 
 
 7. Instalar dependencias
 
 
+
+
 pip install -r requirements.txt
 
 
+
+
 8.Por ultimo ejecuta la aplicacion 
+
+
 
 python main.py
 
