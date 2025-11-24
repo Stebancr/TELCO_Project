@@ -105,4 +105,4 @@ def index():
 
 if __name__ == '__main__':
     # Configurar puerto y modo para el entorno de prueba
-    uvicorn.run("main:app", host="0.0.0.0", port=5001,reload=True)
+    app.run(debug=True, port=8080)
