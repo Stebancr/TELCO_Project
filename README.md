@@ -119,4 +119,9 @@ Descripción del cluster
 
 Telcoprueba.ipynb (https://drive.google.com/file/d/1IBo8XqV1QBpF1dVoyYEsagcx-y0aOElB/view?usp=sharing)
 
+video: 
+
+
+https://www.canva.com/design/DAG5kSPFEhQ/GFa-P53t2QrTe9fPQDIh0w/watch?utm_content=DAG5kSPFEhQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb34e11b7a4
+
 
