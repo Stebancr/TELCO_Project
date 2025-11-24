@@ -1,3 +1,6 @@
+Luis Steban Chocue
+Nicolas Mosquera
+
 Proyecto Final – Machine Learning 
 
 Este proyecto integra Machine Learning supervisado y no supervisado dentro de una aplicación web desarrollada en Flask, permitiendo realizar predicciones y segmentaciones basadas en datos de clientes de telecomunicaciones.
@@ -132,7 +135,26 @@ https://www.canva.com/design/DAG5kSPFEhQ/GFa-P53t2QrTe9fPQDIh0w/watch?utm_conten
 
 #Instalación
 
+Antes de seguir asegurarse que los scripts esten activado 
 
+ejecuta como administrador el PowerShell
+y poner el siguiente comando:
+
+
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+despues de la ejecucion saldra un enunciado asi:
+
+
+La directiva de ejecución te ayuda a protegerte de scripts en los que no confías. Si cambias dicha directiva, podrías
+exponerte a los riesgos de seguridad descritos en el tema de la Ayuda about_Execution_Policies en
+https:/go.microsoft.com/fwlink/?LinkID=135170. ¿Quieres cambiar la directiva de ejecución?
+[S] Sí  [O] Sí a todo  [N] No  [T] No a todo  [U] Suspender  [?] Ayuda (el valor predeterminado es "N"):
+
+luego presiona la tecla s y enter.
+
+
+#Ya en el proyecto sigue los siguentes pasos.
 
 Sigue estos pasos para ejecutar el proyecto en tu máquina.
 
@@ -156,12 +178,7 @@ python -m venv .venv
 
 
 
-3. Activar el entorno virtual
-
-
-
-
-Windows (CMD)         
+3. Activar el entorno virtual        
 
 
 
@@ -198,6 +215,7 @@ cd ..
 
 
 pip install -r requirements.txt
+
 
 
 
